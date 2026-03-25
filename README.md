@@ -1,2 +1,3 @@
-# Arch-Hyprland-Themes
-Themes for Arch linux Hyprland.
+# File Organizer
+
+Automatically sort different files.
