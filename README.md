@@ -1,3 +1,3 @@
 # File Organizer
 
-Automatically sort different files.
+Sorts files in a directory into categorized subfolders.
